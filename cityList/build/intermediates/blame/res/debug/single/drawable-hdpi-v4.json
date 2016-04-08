@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\eclipse\\Android_Studio2\\MovieTime\\cityList\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_puin.9.png",
+        "source": "D:\\eclipse\\Android_Studio2\\MovieTime\\cityList\\src\\main\\res\\drawable-hdpi\\search_puin.9.png"
+    },
+    {
+        "merged": "D:\\eclipse\\Android_Studio2\\MovieTime\\cityList\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_bg.9.png",
+        "source": "D:\\eclipse\\Android_Studio2\\MovieTime\\cityList\\src\\main\\res\\drawable-hdpi\\search_bg.9.png"
+    },
+    {
+        "merged": "D:\\eclipse\\Android_Studio2\\MovieTime\\cityList\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_search.png",
+        "source": "D:\\eclipse\\Android_Studio2\\MovieTime\\cityList\\src\\main\\res\\drawable-hdpi\\icon_search.png"
+    },
+    {
+        "merged": "D:\\eclipse\\Android_Studio2\\MovieTime\\cityList\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\listitem_selector.xml",
+        "source": "D:\\eclipse\\Android_Studio2\\MovieTime\\cityList\\src\\main\\res\\drawable-hdpi\\listitem_selector.xml"
+    },
+    {
+        "merged": "D:\\eclipse\\Android_Studio2\\MovieTime\\cityList\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\line.9.png",
+        "source": "D:\\eclipse\\Android_Studio2\\MovieTime\\cityList\\src\\main\\res\\drawable-hdpi\\line.9.png"
+    }
+]

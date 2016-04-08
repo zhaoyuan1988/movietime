@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\eclipse\\Android_Studio2\\MovieTime\\cityList\\build\\intermediates\\res\\merged\\debug\\layout\\city_item.xml",
+        "source": "D:\\eclipse\\Android_Studio2\\MovieTime\\cityList\\src\\main\\res\\layout\\city_item.xml"
+    },
+    {
+        "merged": "D:\\eclipse\\Android_Studio2\\MovieTime\\cityList\\build\\intermediates\\res\\merged\\debug\\layout\\citylist.xml",
+        "source": "D:\\eclipse\\Android_Studio2\\MovieTime\\cityList\\src\\main\\res\\layout\\citylist.xml"
+    }
+]
