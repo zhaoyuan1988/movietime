@@ -1,5 +1,5 @@
-# MovieTime
-协同开发:（git地址）https://github.com/wszqok/movietime.git
+协同开发:（git地址）
+https://github.com/movietime-byatguigu/movietime.git
 
 购票及电影周边 影视城 项目名称：movietime 电影时光
 
@@ -11,8 +11,8 @@
 
 项目大致流程:
                      ①.抓包获取数据 ②.分析数据，分析结构 ③.软件架构的搭建 ④.分工实现各自板块 ⑤13号24点前结束第一阶段:各个页面的装配及主要功能实现
-		      ⑥.14-17号，引入第三方框架实现细节功能如支付,定位等 ⑦.17-20号，bug调试，性能优化，屏幕适配测试，打包、签名、上线等 ⑧.项目总结
+		      ⑥.14-17号，引入第三方框架实现细节功能如支付,在线订座,位置定位等 ⑦.17-20号，bug调试，性能优化，屏幕适配测试，打包、混淆,签名、上线等 ⑧.项目总结
 
-5.开发工具Android Studio1.5 .... build版本 compileSdkVersion 22 buildToolsVersion "23.0.1" ....sdk版本 minSdkVersion 15 targetSdkVersion 22 
+5.开发工具环境Android Studio1.5 ....  build版本 compileSdkVersion 22                   buildToolsVersion "23.0.1"                        ...               sdk版本 minSdkVersion 15 targetSdkVersion 22 
 6
-.版本控制采用git 附：（git地址）https://github.com/wszqok/movietime.git
+.版本控制采用git 附：（git地址）    https://github.com/movietime-byatguigu/movietime.git
